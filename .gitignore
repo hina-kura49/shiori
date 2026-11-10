@@ -1,0 +1,17 @@
+# Binaries
+/shiori
+/dist/
+*.exe
+*.test
+*.out
+
+# Go
+/vendor/
+
+# Coverage
+*.coverprofile
+coverage.*
+
+# Editor / OS
+.DS_Store
+*.swp
